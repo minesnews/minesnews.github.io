@@ -114,7 +114,7 @@ function CardTextFormatting(CardText) {
     CardText = CardText.replace(/(Scheme)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Scheme\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Scheme</span>");
     CardText = CardText.replace(/(Siege)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Siege\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Siege</span>");
     CardText = CardText.replace(/(Stun)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Stun\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Stun</span>");
-	CardText = CardText.replace(/(Станит)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Станит\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Станитт</span>");
+	CardText = CardText.replace(/(Станит)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Стант\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Станит</span>");
     if (!CardText.includes("Swap colors")) { //Body Modifications card
         CardText = CardText.replace(/(Swap)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Swap\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Swap</span>");
     }
