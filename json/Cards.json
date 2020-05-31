@@ -110,7 +110,7 @@
                 "miniimage": "200004_0",
                 "cost": 4,
                 "text":{
-                    "english":"Stun a unit this round. Give it +2 Decay for two rounds."
+                    "english":"Станит юнита в этом раунде. Даёт +2 к разложению на два раунда."
                 },
                 "crosslane": false,
                 "quick": false,
