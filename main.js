@@ -114,7 +114,7 @@ function CardTextFormatting(CardText) {
     CardText = CardText.replace(/(Scheme)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Scheme\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Scheme</span>");
     CardText = CardText.replace(/(Siege)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Siege\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Siege</span>");
     CardText = CardText.replace(/(Stun)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Stun\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Stun</span>");
-	CardText = CardText.replace(/(Станит)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Станит\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Станит</span>");
+	CardText = CardText.replace(/(Стан)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Стан\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Стан</span>");
     if (!CardText.includes("Swap colors")) { //Body Modifications card
         CardText = CardText.replace(/(Swap)/gi,"<span class=\"CardCentreKeyWordText\" onmousemove=\"ShowKeywordTooltip(1,\'Swap\');\" onmouseout=\"ShowKeywordTooltip(0,0);\">Swap</span>");
     }
@@ -1135,7 +1135,7 @@ Keywords['Rooted'] = "Can't be moved.";
 Keywords['Scheme'] = "An effect which triggers when the card's owner passes.";
 Keywords['Siege'] = "During the combat phase, deal Siege damage to the enemy tower.";
 Keywords['Stun'] = "A stunned unit is silenced (cannot use any active abilities and cannot be used to play cards of its color) and disarmed (does not attack its target during battles). Lasts until the end of round by default.";
-Keywords['Станит'] = "Застаненный герой обезмолвлен (не может использовать активные способности и не может играть карты его цвета) и обезоружен (не может атаковать его цель во время сражения). По умолчанию он длится до конца раунда, если не указано иного.";
+Keywords['Стан'] = "Застаненный герой обезмолвлен (не может использовать активные способности и не может играть карты его цвета) и обезоружен (не может атаковать его цель во время сражения). По умолчанию он длится до конца раунда, если не указано иного.";
 Keywords['Swap'] = "Move a unit to the targeted slot. If that slot was occupied, the unit in that space move to the original unit's position.";
 Keywords['Tower Enchantment'] = "A tower enchantment is a spell that adds a permanent effect to a tower or lane. Tower enchantments are not units and do not occupy combat positions.";
 Keywords['Taunt'] = "When a unit taunts all of its enemy neighbors change their combat target to that unit. Targets reset after each round.";
