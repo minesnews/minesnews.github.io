@@ -1305,7 +1305,7 @@
                 "miniimage": "200044_0",
                 "cost": 2,
                 "text":{
-                    "english":"/n Slay a damaged enemy hero with 3 or less Health. Repeatable this round."
+                    "english":"/n Уничтожает атакованного героя с 3 и меньше здоровья. Откатывается в этом же раунде."
                 },
                 "crosslane": false,
                 "quick": false,
