@@ -1,0 +1,1446 @@
+[
+    {
+        "card_id":210001,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Leap"
+                },
+                "cooldown": 3,
+                "image": "210001_0",
+                "cost": 1,
+                "text":{
+                    "english":"Active 3[AC], 1 Mana: Move Mirana up to 5 slots away. Give Mirana and new neighbors +2[ATT]. Cross lane."
+                }
+            }
+        ]        
+    },
+    {
+        "card_id":210002,
+        "card_type":"Ability",
+        "versions": [
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Reincarnation"
+                },
+                "cooldown": 0,
+                "image": "210002_0",
+                "cost": 0,
+                "text":{
+                    "english":"When Wraith King uses a death shield, heal to full and give enemies -2[ATT] for their next combat. /n [TG]Deploy:[ET] Gain a death shield."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210004,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Bristleback"
+                 },
+                "cooldown": 0,
+                "image": "210003_0",
+                "cost": 0,
+                "text":{
+                    "english":"When Bristleback takes damage outside of combat, reduce that damage to 1, then activate Quill Spray."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210005,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Quill Spray"
+                 },
+                "cooldown": 3,
+                "image": "210005_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Deal 1 combat damage to adjacent enemies."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210006,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Branches of Iron"
+                 },
+                "cooldown": 0,
+                "image": "210006_0",
+                "cost": 0,
+                "text":{
+                    "english":"Aura: Treant Protector's allies up to 2 slots away in this lane have +2[AR]."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210008,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Timber Chain"
+                 },
+                "cooldown": 0,
+                "image": "210008_0",
+                "cost": 0,
+                "text":{
+                    "english":"Active ■3, 1 Mana: Move Timbersaw up to 5 slots away. Deal 1 damage to each enemy passed on the way. /n [TG]Cross Lane[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210010,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Scrapper"
+                 },
+                "cooldown": 0,
+                "image": "210009_0",
+                "cost": 0,
+                "text":{
+                    "english":"After Combat: If Debbi the Cunning dealt damage to a tower, give the tower -1[AR] and give Debbi +1[AR] permanently."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210011,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Stop Hittin' Yourself"
+                 },
+                "cooldown": 0,
+                "image": "210011_0",
+                "cost": 0,
+                "text":{
+                    "english":"Active ■3, 1 Mana: Each unit pointing at Keefe the Bold battles itself."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210012,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Pack Leadership"
+                 },
+                "cooldown": 0,
+                "image": "210012_0",
+                "cost": 0,
+                "text":{
+                    "english":"+1[ATT] for each ally in lane."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210013,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Wisdom of the Elders"
+                 },
+                "cooldown": 4,
+                "image": "210013_0",
+                "cost": 1,
+                "text":{
+                    "english":"Active ■4, 1 Mana: Draw a card. Reduce cooldown by 1, but not below 1."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210014,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Gather the Faithful"
+                 },
+                "cooldown": 0,
+                "image": "210014_0",
+                "cost": 0,
+                "text":{
+                    "english":"Deploy to the right instead of the left and Mega Creeps instead of Melee Creeps. /n [TG]Deploy:[ET] Redeploy your leftmost Melee Creep."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210015,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Beserker's Call"
+                 },
+                "cooldown": 2,
+                "image": "210015_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Battle all adjacent enemies."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210016,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Multicast"
+                 },
+                "cooldown": 2,
+                "image": "210016_0",
+                "cost": 0,
+                "text":{
+                    "english":"The first blue spell or enchantment you cast from this lane can be repeated this round. 2 round cooldown."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210018,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Track"
+                 },
+                "cooldown": 0,
+                "image": "210017_0",
+                "cost": 0,
+                "text":{
+                    "english":"Bounty Hunter deals +3 damage when attacking tracked heroes. /n [TG]Deploy:[ET] Track Bounty Hunter's target if it's a hero. Tracked units have +5 Bounty."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210019,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Juxtapose"
+                 },
+                "cooldown": 0,
+                "image": "210019_0",
+                "cost": 0,
+                "text":{
+                    "english":"After Combat: Summon a Lancer Illusion into the closest position."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210020,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Efficient Killer"
+                 },
+                "cooldown": 0,
+                "image": "210020_0",
+                "cost": 0,
+                "text":{
+                    "english":"Double damage when attacking a hero."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210022,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Vacuum"
+                 },
+                "cooldown": 0,
+                "image": "210022_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Active 3, 1 Mana:[ET] Choose a slot. Deal 1 damage to enemies in lane then pull them towards the target slot. /n [TG][QU]Quickcast[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210023,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Lucent Beam"
+                 },
+                "cooldown": 0,
+                "image": "210023_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Round Start:[ET] Deal 1 piercing damage to a random enemy and add a charge to your Eclipse cards."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210024,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Blink"
+                 },
+                "cooldown": 3,
+                "image": "210024_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3, 1 Mana:[ET] Move Anti-Mage up to 5 slots away. Deal 1 battle damage to the unit now blocking Anti-Mage. [TG]Cross Lane[ET]."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210025,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Reactive",
+                "ability_name":{
+                    "english":"Mana Break"
+                 },
+                "cooldown": 0,
+                "image": "210025_0",
+                "cost": 0,
+                "text":{
+                    "english": "Burn 1 mana when Anti-Mage deals battle damage to an enemy hero before combat."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210026,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Great Cleave"
+                 },
+                "cooldown": 0,
+                "image": "210026_0",
+                "cost": 0,
+                "text":{
+                    "english":"Sven's attack counts as Cleave in the combat phase. /n Sven still hits the tower if unblocked."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210027,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Arcane Aura"
+                 },
+                "cooldown": 0,
+                "image": "210027_0",
+                "cost": 0,
+                "text":{
+                    "english":"Restore 2 mana the first time you play a spell or enchantment in any lane."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210028,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Precision Aura"
+                 },
+                "cooldown": 0,
+                "image": "210028_0",
+                "cost": 0,
+                "text":{
+                    "english":"Aura: Drow Ranger's allies in all lanes have +1[ATT]."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210029,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Thirst"
+                 },
+                "cooldown": 0,
+                "image": "210029_0",
+                "cost": 0,
+                "text":{
+                    "english":"Bloodseeker has +Attack equal to the highest missing Health from an enemy hero in any lane. /n Cross Lane"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210030,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Concussive Shot"
+                 },
+                "cooldown": 2,
+                "image": "210030_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Give a hero and its allied neighbors -3[AR] this round. /n [TG][QU]Quickcast[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210031,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Headshot"
+                 },
+                "cooldown": 3,
+                "image": "210031_0",
+                "cost": 0,
+                "text":{
+                    "english":"Active 3[AC], 1 Mana: Deal 4 damage to a unit."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210032,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continous Effect",
+                "ability_name":{
+                    "english":"Moment of Courage"
+                 },
+                "cooldown": 0,
+                "image": "210032_0",
+                "cost": 0,
+                "text":{
+                    "english":"After battling a unit, heal 2."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210034,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continous Effect",
+                "ability_name":{
+                    "english":"Feral Impulse"
+                 },
+                "cooldown": 0,
+                "image": "210034_0",
+                "cost": 0,
+                "text":{
+                    "english":"Aura: Lycan's allies up to 2 slots away in this lane have +2[ATT]."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210035,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Relentless Rebel"
+                 },
+                "cooldown": 0,
+                "image": "210035_0",
+                "cost": 0,
+                "text":{
+                    "english":"Rapid deployment. /n [TG]Death Effect:[ET] Gain +1[ATT] permanently."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210036,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Horde Stryder Active"
+                 },
+                "cooldown": 1,
+                "image": "PH",
+                "cost": 0,
+                "text":{
+                    "english":"Move Horde Stryder to an empty position."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210037,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Phantom Rush"
+                 },
+                "cooldown": 1,
+                "image": "PH",
+                "cost": 0,
+                "text":{
+                    "english":"Aura: When Phantom Lancer is blocked, Phantom Lancer and Lancer Illusions have +1[ATT] and +1[AR]."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210038,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Untouchable"
+                 },
+                "cooldown": 0,
+                "image": "210038_0",
+                "cost": 0,
+                "text":{
+                    "english":"When a unit deals battle damage to Enchantress, it is disarmed for the next combat. When Deployed: Disarm the enemy blocking Enchantress for the next combat."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210039,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Call of the Wild"
+                 },
+                "cooldown": 3,
+                "image": "210039_0",
+                "cost": 0,
+                "text":{
+                    "english":"Active 2, Mana 1: Summon a Loyal Beast"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210041,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Stampede"
+                 },
+                "cooldown": 3,
+                "image": "210041_0",
+                "cost": 0,
+                "text":{
+                    "english":"Active 3[AC], 1 Mana: Give your units Trample."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210042,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Arcane Flux"
+                 },
+                "cooldown": 0,
+                "image": "210042_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Round Start:[ET] Adjacent enemy heroes get -1[ATT] for two rounds. /n [TG]Round Start:[ET] If there is an adjacent enemy hero, you get +1 Max Mana."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210043,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Purification"
+                 },
+                "cooldown": 2,
+                "image": "210043_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Heal an ally 3 and deal 1 piercing damage to each of its adjacent enemies."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210044,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Inspect"
+                 },
+                "cooldown": 2,
+                "image": "210044_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Increase Mana cost of two random cards in your opponents hand by 1. Reveal them. /n [TG][QU]Quickcast[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210045,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Nether Blast"
+                 },
+                "cooldown": 2,
+                "image": "210045_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Deal 3 damage to the enemy tower. Dispel a random enchantment from it."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210046,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Oathed"
+                 },
+                "cooldown": 0,
+                "image": "210046_0",
+                "cost": 0,
+                "text":{
+                    "english":"+3[ATT]. Silenced."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210047,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Assault"
+                 },
+                "cooldown": 0,
+                "image": "210047_0",
+                "cost": 0,
+                "text":{
+                    "english":"Rapid Deployment. /n [TG]Deploy:[ET] Give your other allies +1 Siege."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210048,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Telekinesis"
+                 },
+                "cooldown": 2,
+                "image": "210048_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Swap an enemy to another position. /n [TG][QU]Quickcast[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210049,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Burrowstrike"
+                 },
+                "cooldown": 4,
+                "image": "210049_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 4[AC], 1 Mana:[ET] Move up to 4 slots away in any lane. Stun and deal 1 damage to the new adjacent enemies /n [TG]Cross Lane[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210050,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Dark Rift"
+                 },
+                "cooldown": 3,
+                "image": "210050_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Move all your heroes in this lane to another lane."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210051,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Fury Swipes"
+                 },
+                "cooldown": 0,
+                "image": "210051_0",
+                "cost": 0,
+                "text":{
+                    "english":"Give units who take battle damage from Ursa -1[AR] permanently."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210052,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Versatile Occultist"
+                 },
+                "cooldown": 2,
+                "image": "210052_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Reduce the Mana cost of two random cards in your hand by 1. Change their color to blue. /n [TG][QU]Quickcast[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210053,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Venomous Nature"
+                 },
+                "cooldown": 2,
+                "image": "210053_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]After Combat:[ET] Summon a Plague Ward into the closest position."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210054,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Static Field"
+                 },
+                "cooldown": 0,
+                "image": "210054_0",
+                "cost": 1,
+                "text":{
+                    "english":"Deal 1 piercing damage to Zeus's adjacent enemies after you play a blue spell or enchantmess from this lane."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210055,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Kraken Shell"
+                 },
+                "cooldown": 0,
+                "image": "210055_0",
+                "cost": 0,
+                "text":{
+                    "english":"The first time Tidehunter takes damage each round, purge your opponent's effects from it."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210056,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Ravage"
+                 },
+                "cooldown": 0,
+                "image": "210056_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 5[AC], 1 Mana:[ET] Stun enemy units up to 2 slots away this round."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210057,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Grow"
+                 },
+                "cooldown": 3,
+                "image": "210057_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Gain +4[ATT]/+4[HP] permanently."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210058,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Walrus Punch"
+                 },
+                "cooldown": 3,
+                "image": "210058_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Double Tusk's Attack this round."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210059,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Spirit Siphon"
+                 },
+                "cooldown": 0,
+                "image": "210059_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]Round Start:[ET] If blocked, gain +2 Regeneration and deal 2 damage to the enemy blocking Death Prophet."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210060,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Sacrifice"
+                 },
+                "cooldown": 2,
+                "image": "210060_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Slay another ally and draw a card. Restore 2 Mana."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210061,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Sadist"
+                 },
+                "cooldown": 0,
+                "image": "210061_0",
+                "cost": 0,
+                "text":{
+                    "english":"Restore 1 mana after Necrophos kills a unit."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210062,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Reaper's Scythe"
+                 },
+                "cooldown": 2,
+                "image": "210062_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Deal damage to a unit equal to its missing Health."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210063,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Requiem of Souls"
+                 },
+                "cooldown": 2,
+                "image": "210063_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Repeat for each charge on Necromastery: [RP] Deal 1 damage to a random enemy."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210064,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Necromastery"
+                 },
+                "cooldown": 0,
+                "image": "210064_0",
+                "cost": 0,
+                "text":{
+                    "english":"Shadow Fiend has +1[ATT] per charge. /n Add 1 charge after an adjacent enemy dies. /n [TG]Death Effect:[ET] Halve the charges on Necromastery."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210065,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Warmonger"
+                 },
+                "cooldown": 0,
+                "image": "210065_0",
+                "cost": 0,
+                "text":{
+                    "english":"Pillager. /n +2 damage when attacking a tower."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210066,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Static Remnant"
+                 },
+                "cooldown": 0,
+                "image": "210066_0",
+                "cost": 0,
+                "text":{
+                    "english":"Leave a Static Remnant behind when Storm Spirit moves from a slot."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210067,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Laser"
+                 },
+                "cooldown": 3,
+                "image": "210067_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Deal 3 damage to a unit and disarm it."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210068,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Arctic Burn"
+                 },
+                "cooldown": 2,
+                "image": "210068_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] +3[ATT]. Move up to 3 slots. Give +2 Decay to each enemy passed."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210069,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Tempest Double"
+                 },
+                "cooldown": 3,
+                "image": "210069_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Clone Arc Warden and its equipment for two rounds. /n /n The clone cannot make additional clones, does not redeploy when it dies, and has no bounty if it expires."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210070,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"After Shock"
+                 },
+                "cooldown": 0,
+                "image": "210070_0",
+                "cost": 0,
+                "text":{
+                    "english":"Stun Earthshaker's adjacent enemies for one action after you play a blue spell or enchantment from this lane."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210071,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Fissure"
+                 },
+                "cooldown": 3,
+                "image": "210071_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Bounce allies in a line up to 3 slots away and summon Rocks in their place."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210072,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Skullduggery"
+                 },
+                "cooldown": 2,
+                "image": "210072_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Choose a non-item card in your opponent's hand. They discard it then draw 1. /n Give Imperia +Attack equal to the discarded card's Mana cost."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210073,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Bringer of Conquest"
+                 },
+                "cooldown": 0,
+                "image": "210073_0",
+                "cost": 0,
+                "text":{
+                    "english":"[TG]After Combat:[ET] If you have three empty slots, your lane creeps are all deployed into this lane."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210074,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Prey on the Weak"
+                 },
+                "cooldown": 0,
+                "image": "210074_0",
+                "cost": 0,
+                "text":{
+                    "english":"Whenever a creep enters this lane under your control, summon a Hound of War to devour it."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210075,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Passive",
+                "ability_name":{
+                    "english":"Fiery Soul"
+                 },
+                "cooldown": 0,
+                "image": "210075_0",
+                "cost": 0,
+                "text":{
+                    "english":"The first time you play a blue spell or enchantment from this lane, deal damage to Lina's combat target equal to the number of charges on Fiery Soul and add 1 charge to Fiery Soul."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210076,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"United We Fall"
+                 },
+                "cooldown": 0,
+                "image": "210076_0",
+                "cost": 0,
+                "text":{
+                    "english":"Soulbound. (If one Meepo dies, all your Meepos die)"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210077,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Poof"
+                 },
+                "cooldown": 2,
+                "image": "210077_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Move Meepo to the first empty position in any Meepo's kane (including this one). Deal 2 damage to the new adjacent enemies. /n [TG][QU]Quickcast[ET]"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210078,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Holy Persuasion"
+                 },
+                "cooldown": 3,
+                "image": "210078_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Steal an enemy creep."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210079,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Shadow Wave"
+                 },
+                "cooldown": 2,
+                "image": "210079_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 2[AC], 1 Mana:[ET] Repeat 4 times: [RP] Heal a damaged ally 1 and deal 1 damage to the closest adajent enemy. Jump left or right to a damaged ally."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210080,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Active",
+                "ability_name":{
+                    "english":"Dragon Form"
+                 },
+                "cooldown": 3,
+                "image": "210080_0",
+                "cost": 1,
+                "text":{
+                    "english":"[TG]Active 3[AC], 1 Mana:[ET] Transform to a Dragon for one round. /n When you deal battle damage to towers or units in dragon form, give them +3 Decay for 3 rounds."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210081,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Dragon Blood"
+                 },
+                "cooldown": 0,
+                "image": "210081_0",
+                "cost": 0,
+                "text":{
+                    "english":"+2 Regeneration"
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210082,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Devoted Disciple"
+                 },
+                "cooldown": 0,
+                "image": "210082_0",
+                "cost": 0,
+                "text":{
+                    "english":"Rapid Deployment. /n [TG]Death Effect:[ET] Give your allies +2[HP] permanently."
+                }
+            }
+        ]
+    },
+    {
+        "card_id":210083,
+        "card_type":"Ability",
+        "versions":[
+            {
+                "release_date":"2020-05-25",
+                "ability_type":"Continuous Effect",
+                "ability_name":{
+                    "english":"Inner Beast"
+                 },
+                "cooldown": 0,
+                "image": "210083_0",
+                "cost": 0,
+                "text":{
+                    "english":"Beastmaster has +2 attack per neighboring Loyal Beast."
+                }
+            }
+        ]
+    }
+]

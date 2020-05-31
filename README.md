@@ -1,1 +1,0 @@
-# minesnews.github.io
