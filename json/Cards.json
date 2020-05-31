@@ -162,7 +162,7 @@
                 "miniimage": "200006_0",
                 "cost": 4,
                 "text":{
-                    "english":"[TG]Play Effect:[ET] Copy innate abilities from the enemy blocking Morphling Whelp."
+                    "english":"[TG]Эффект разыгрывания:[ET] Копирует способности врагов, блокирующих Morphling Whelp."
                 },
                 "attack": 1,
                 "armour": 0,
@@ -189,7 +189,7 @@
                 "miniimage": "200007_0",
                 "cost": 5,
                 "text":{
-                    "english":"[TG]Play Effect:[ET] Bounce the enemy blocking Defenestrating Ogre."
+                    "english":"[TG]Эффект разыгрывания:[ET] Возвращает врагов, блокирующих Defenestrating Ogre."
                 },
                 "attack": 4,
                 "armour": 0,
@@ -217,7 +217,7 @@
                 "cost": 1,
                 "gcost": 25,
                 "text":{
-                    "english":" /n +5[ATT] /n /n Active 2, 1 Mana: Hex an enemy for two rounds. (They are stunned and look like a sheep.)"
+                    "english":" /n +5[ATT] /n /n Активная (перезарядка 2 раунда), стоит 1 ману: Хексует врага на 2 раунда. (Они застанены и похожи на овец.)"
                 },
                 "attack": 5,
                 "armour": 0,
@@ -285,7 +285,7 @@
                 "miniimage": "200010_0",
                 "cost": 3,
                 "text":{
-                    "english":"Give a unit -3 armor permanently."
+                    "english":"Модифицирует юнита на -3 брони."
                 },
                 "crosslane": false,
                 "quick": false,
