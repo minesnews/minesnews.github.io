@@ -927,7 +927,7 @@
                 "cost": 1,
                 "gcost": 10,
                 "text":{
-                    "english":"/n +2[ATT] /n /n [TG]Round Start: [ET] Disarm the closest enemy creep."
+                    "english":"/n +2[ATT] /n /n [TG]Начало раунда: [ET] Обезаруживает ближайшего вражеского крипа."
                 },
                 "attack": 2,
                 "armour": 0,
@@ -956,7 +956,7 @@
                 "cost": 1,
                 "gcost": 15,
                 "text":{
-                    "english":"/n +6[HP] /n /n Deploy Demonic Archers instead of Melee Creeps."
+                    "english":"/n +6[HP] /n /n Размещает демонических лучников вместо крипов ближнего боя."
                 },
                 "attack": 0,
                 "armour": 0,
@@ -985,7 +985,7 @@
                 "miniimage": "200035_0",
                 "cost": 2,
                 "text":{
-                    "english":"/n [TG] Round Start: [ET] Deal 1 damage to the closest enemy."
+                    "english":"/n [TG] Начало раунда: [ET] Наносит 1 урона ближайшему врагу."
                 },
                 "attack": 1,
                 "armour": 0,
@@ -1014,7 +1014,7 @@
                 "cost": 1,
                 "gcost": 20,
                 "text":{
-                    "english":"/n +2[AR] /n /n [TG]Aura: [ET] Adjacent enemies are rooted and have +2 decay."
+                    "english":"/n +2[AR] /n /n [TG]Аура: [ET] На соседних врагов применяется оцепенение и +2 к разложению."
                 },
                 "attack": 0,
                 "armour": 2,
