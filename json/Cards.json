@@ -844,7 +844,7 @@
                 "miniimage": "200029_0",
                 "cost": 2,
                 "text":{
-                    "english":"Refresh all cooldowns on one of your units."
+                    "english":"Обновляет все кулдауны на одном из ваших юнитов."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -869,7 +869,7 @@
                 "cost": 1,
                 "gcost": 10,
                 "text":{
-                    "english":"/n /n Summon a Revtel Mercenary."
+                    "english":"/n /n Призывает Revtel Mercenary."
                 },
                 "attack": 0,
                 "armour": 0,
@@ -898,7 +898,7 @@
                 "cost": 1,
                 "gcost": 10,
                 "text":{
-                    "english":"/n +2[ATT] /n /n [TG]Active 2[AC], 1 Mana:[ET] /n Push a unit."
+                    "english":"/n +2[ATT] /n /n [TG]Активная 2[AC], 1 Мана:[ET] /n Толкает юнита."
                 },
                 "attack": 2,
                 "armour": 0,
