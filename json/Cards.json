@@ -1051,7 +1051,7 @@
                 "cost": 1,
                 "gcost": 10,
                 "text":{
-                    "english":"/n +3[HP] /n /n [TG]Active 2[AC], 1 Mana: [ET] /n Swap this hero to another position."
+                    "english":"/n +3[HP] /n /n [TG]Активная 2[AC], 1 Мана: [ET] /n Перемещает выбранного героя на другую позицию."
                 },
                 "attack": 0,
                 "armour": 0,
@@ -1088,7 +1088,7 @@
                 "cost": 1,
                 "gcost": 10,
                 "text":{
-                    "english":"/n +3[HP] /n /n +2 Lock to any extra cards your opponent draws each round."
+                    "english":"/n +3[HP] /n /n +2 Блокирует все дополнительные карты, которые противник получает в каждом раунде."
                 },
                 "attack": 0,
                 "armour": 0,
@@ -1125,7 +1125,7 @@
                 "cost": 1,
                 "gcost": 30,
                 "text":{
-                    "english":"/n +1[AR] /n [TG]Active 1[AC], 1 Mana: [ET] /n Reduce adjacent enemies to 1 Health. They are stunned, rooted and feeble."
+                    "english":"/n +1[AR] /n [TG]Активная 1[AC], 1 Мана: [ET] /n Уменьшает здоровье ближайших врагов на 1. Они застанены, находятся в оцепенении и немощны."
                 },
                 "attack": 0,
                 "armour": 1,
@@ -1221,7 +1221,7 @@
                 "miniimage": "200041_0",
                 "cost": 3,
                 "text":{
-                    "english":"/n Enchant Tower /n [TG]Aura:[ET] Your creeps have +1[ATT]/+1[HP]."
+                    "english":"/n Зачарование башни /n [TG]Аура:[ET] Союзные крипы получают +1[ATT]/+1[HP]."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1398,7 +1398,7 @@
                 "miniimage": "200047_0",
                 "cost": 4,
                 "text":{
-                    "english":"/n Enchant Caster. /n [TG]Round Start:[ET] Deal 1 piercing damage to each enemy."
+                    "english":"/n Зачарование союзника. /n [TG]Начало раунда:[ET] Наносит 1 пронизающего урона каждому врагу."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1512,7 +1512,7 @@
                 "miniimage": "200050_0",
                 "cost": 5,
                 "text":{
-                    "english":"/n Discard a random card. /n Slay a hero."
+                    "english":"/n Уничтожает рандомную карту в руке. /n Уничтожает выбранного героя."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1575,7 +1575,7 @@
                 "miniimage": "200052_0",
                 "cost": 3,
                 "text":{
-                    "english":"/n Give an ely +3 Retaliate permanently. It taunts."
+                    "english":"/n Выбранное существо получает +3 к контратаке. Он провоцирует врагов."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1664,7 +1664,7 @@
                 "miniimage": "200054_0",
                 "cost": 6,
                 "text":{
-                    "english":"/n Repeat one time for each charge: [RP] Deal 2 piercing damage to a random enemy. /n /n [TG] Charges: 1[ET]"
+                    "english":"/n За каждый заряд: [RP] Наносит 2 пронизающего урона случайному врагу. /n /n [TG] Зарядов: 1[ET]"
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1771,7 +1771,7 @@
                 "miniimage": "200057_0",
                 "cost": 5,
                 "text":{
-                    "english":" /n Caster gains +3 attack permanently."
+                    "english":"Выбранный союзник получает +3 атаки."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1861,7 +1861,7 @@
                 "miniimage": "200059_0",
                 "cost": 2,
                 "text":{
-                    "english":" /n Deal 2 damage and disarm it this round."
+                    "english":" /n Наносит 2 урона и обезоруживает в этом раунде."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -1925,7 +1925,7 @@
                 "miniimage": "200061_0",
                 "cost": 3,
                 "text":{
-                    "english":" /n Silence an enemy hero and its neighbors."
+                    "english":" /n Накладывает безмолвие на вражеского героя и его соседних союзников."
                 },
                 "crosslane": false,
                 "quick": false,
