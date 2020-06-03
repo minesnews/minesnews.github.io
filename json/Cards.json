@@ -1981,7 +1981,7 @@
                 "miniimage": "200063_0",
                 "cost": 4,
                 "text":{
-                    "english":" /n Choose Caster. Choose an enemy unit, reduce it to 3 Health and heal caster for the amount removed."
+                    "english":" /n Выберите союзника. Выберите вражеского юнита, уменьшает его здоровье до 3 и исцеляет выбранного союзника на уменьшенное здоровье врага."
                 },
                 "crosslane": false,
                 "quick": false,
