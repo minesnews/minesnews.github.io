@@ -2744,7 +2744,7 @@
                 "miniimage": "200086_0",
                 "cost": 1,
                 "text":{
-                    "english":" /n [TG]After Combat:[ET] Gain +1[ATT]/+1[HP] permanently."
+                    "english":" /n [TG]После боя:[ET] Получает +1[ATT]/+1[HP] навсегда."
                 },
                 "attack": 1,
                 "armour": 0,
@@ -2771,7 +2771,7 @@
                 "miniimage": "200087_0",
                 "cost": 2,
                 "text":{
-                    "english":" /n Wild Boar deals +2 damage when attacking a unit."
+                    "english":" /n Wild Boar наносит +2 урона когда атакует юнита."
                 },
                 "attack": 2,
                 "armour": 0,
@@ -2806,7 +2806,7 @@
                 "miniimage": "200088_0",
                 "cost": 4,
                 "text":{
-                    "english":" /n Legion Standard Bearer's allied neighbors have +3 Attack."
+                    "english":" /n Соседние союзники Legion Standard Bearer получают +3 к атаке."
                 },
                 "attack": 0,
                 "armour": 0,
@@ -2841,7 +2841,7 @@
                 "miniimage": "200089_0",
                 "cost": 4,
                 "text":{
-                    "english":" /n Pillager /n [TG]Play Effect:[ET] Deal 2 damage to the enemy tower."
+                    "english":" /n Мародёр /n [TG]Эффект разыгрывания:[ET] Наносит 2 урона вражеской башне."
                 },
                 "attack": 2,
                 "armour": 0,
@@ -2877,7 +2877,7 @@
                 "cost": 1,
                 "gcost": 15,
                 "text":{
-                    "english":" /n +2[ATT] and +3 Cleave."
+                    "english":" /n +2[ATT] и +3 к пробитию."
                 },
                 "attack": 10,
                 "armour": 0,
@@ -2904,7 +2904,7 @@
                 "miniimage": "200071_0",
                 "cost": 4,
                 "text":{
-                    "english":" /n Choose a creep and another enemy. They battle each other. Allied creeps used this way deal +2 damage."
+                    "english":"/n Выберите крипа и другого врага. Они бьют друг друга. Союзные крипы при этом получают +2 к урону."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -2973,7 +2973,7 @@
                 "image": "200093_0",
                 "miniimage": "200093_0",
                 "text":{
-                    "english":" /n /n [TG]Minion:[ET] +2[ATT]/+2[HP] when neighbouring Beastmaster."
+                    "english":" /n /n [TG]Приспешник:[ET] +2[ATT]/+2[HP] когда соседом является Beastmaster."
                 },
                 "attack": 1,
                 "armour": 0,
