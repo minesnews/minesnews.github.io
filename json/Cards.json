@@ -123,9 +123,9 @@
         "versions":[
             {
                 "release_date":"2020-04-06",
-                "card_type":"Creep",
+                "card_type":"Key",
                 "card_name":{
-                    "english":"Sticky Greevil"
+                    "english":"Beta 2.0 Key"
                 },
                 "set": 1,
                 "rarity": 1,
@@ -134,7 +134,7 @@
                 "miniimage": "200005_0",
                 "cost": 1,
                 "text":{
-                    "english":"На цель Sticky Greevil накладывается оцепенение."
+                    "english":"Имеет свойство быть 0-x или 1-y, где x - всего раздач, у - число предыдущих раздач."
                 },
                 "attack": 1,
                 "armour": 0,
@@ -2071,7 +2071,7 @@
                 "miniimage": "200065_0",
                 "cost": 6,
                 "text":{
-                    "english":" /n Deal 6 piercing damage evenly divided among a unit and its allied neighbors."
+                    "english":" /n Наносит 6 пронизающего урона поровну делящегося между юнитом и его соседними союзниками."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -2160,7 +2160,7 @@
                 "miniimage": "200067_0",
                 "cost": 7,
                 "text":{
-                    "english":" /n Choose Caster. /n Slay a unit in any lane. /n [TG]Cross Lane[ET]"
+                    "english":" /n Выберите союзника. /n Уничтожает юнита на любом лайне. /n [TG]Глобальная карта[ET]"
                 },
                 "crosslane": true,
                 "quick": false,
@@ -2224,7 +2224,7 @@
                 "miniimage": "200069_0",
                 "cost": 2,
                 "text":{
-                    "english":" /n Caster battles another hero. Give the winner +1[ATT] permanently."
+                    "english":" /n Выбранный союзник бьётся с другим героем. Даёт победителю +1[ATT] навсегда."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -2347,7 +2347,7 @@
                 "hp": 2,
                 "cost": 3,
                 "text":{
-                    "english":" /n [TG]After Combat:[ET] Gain +2/+1 permanently."
+                    "english":" /n [TG]Эффект после боя:[ET] Усиление +2/+1 навсегда."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -2410,7 +2410,7 @@
                 "miniimage": "200075_0",
                 "cost": 2,
                 "text":{
-                    "english":" /n Silence a unit for 2 rounds."
+                    "english":" /n Накладывает безмолвие на юнита на 2 раунда."
                 },
                 "crosslane": false,
                 "quick": false,
@@ -2442,7 +2442,7 @@
                 "miniimage": "200076_0",
                 "cost": 4,
                 "text":{
-                    "english":"Deal 1 piercing damage to the enemy tower after an allied Melee Creep dies."
+                    "english":"Наносит 1 пронизающего урона вражеской башне после смерти союзных крипов ближнего боя."
                 },
                 "attack": 1,
                 "armour": 0,
@@ -2469,7 +2469,7 @@
                 "miniimage": "200077_0",
                 "cost": 4,
                 "text":{
-                    "english":" +2 damage when attacking a tower. /n /n [TG]Active 1[AC], 1 Mana:[ET] Move to an empty position."
+                    "english":" +2 урона, когда атакует башню. /n /n [TG]Активная 1[AC], 1 Мана:[ET] Перемещает в позицию врага."
                 },
                 "attack": 3,
                 "armour": 0,
@@ -2533,7 +2533,7 @@
                 "miniimage": "200079_0",
                 "cost": 0,
                 "text":{
-                    "english":" /n Restore 1 mana, per round, when you play an item."
+                    "english":" /n Восстанавливает 1 ману за раунд, когда вы играете предмет."
                 },
                 "crosslane": false,
                 "quick": false
@@ -2558,7 +2558,7 @@
                 "cost": 0,
                 "gcost": 0,
                 "text":{
-                    "english":" /n Move caster to an adjacent lane. /n This is a reward for damaging the enemy tower. /n [TG]Cross Lane[ET]"
+                    "english":" /n Перемещает кастера на соседнюю линию. /n Эта награда за повреждение вражеской башни. /n [TG]Глобальная карта[ET]"
                 },
                 "attack": 0,
                 "armour": 0,
@@ -2586,7 +2586,7 @@
                 "cost": 1,
                 "gcost": 10,
                 "text":{
-                    "english":" /n +1[TG][AR][ET] /n [TG]Aura:[ET] Your creeps have +1[TG][AR][ET]."
+                    "english":" /n +1[TG][AR][ET] /n [TG]Аура:[ET] Твои крипы получают +1[TG][AR][ET]."
                 },
                 "attack": 0,
                 "armour": 1,
@@ -2652,7 +2652,7 @@
                 "miniimage": "200083_0",
                 "cost": 7,
                 "text":{
-                    "english":" /n /n Trample."
+                    "english":" /n /n Подавление."
                 },
                 "attack": 8,
                 "armour": 0,
@@ -2689,7 +2689,7 @@
                 "cost": 1,
                 "gcost": "25",
                 "text":{
-                    "english":" /n Equipped hero has +3 Health. /n /n [TG]Active [AC]2:[ET] Summon a Thunderhide Pack."
+                    "english":" /n Экипированный герой получает +3 к здоровью /n /n [TG]Активная [AC]2:[ET] Призывает Thunderhide Pack."
                 },
                 "attack": 0,
                 "armour": 0,
@@ -2717,7 +2717,7 @@
                 "miniimage": "200085_0",
                 "cost": 4,
                 "text":{
-                    "english":" [TG]Minion:[ET] Honor Guard has +1[ATT] and +1[AR] per neighboring hero. /n [TG]Play Effect:[ET] Honor Guard taunts."
+                    "english":" [TG]Приспешник:[ET] Honor Guard получает +1[ATT] и +1[AR] за соседнего героя. /n [TG]Эффект разыгрывания:[ET] Honor Guard провоцирует врагов."
                 },
                 "attack": 3,
                 "armour": 1,
