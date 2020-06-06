@@ -125,7 +125,7 @@
                 "release_date":"2020-04-06",
                 "card_type":"Creep",
                 "card_name":{
-                    "english":"Beta 2.0 Key"
+                    "english":"Sticky Greevil"
                 },
                 "set": 1,
                 "rarity": 1,
@@ -134,7 +134,7 @@
                 "miniimage": "200005_0",
                 "cost": 1,
                 "text":{
-                    "english":"Имеет статы 0-x или 1-y, где x - всего раздач, у - число предыдущих раздач."
+                    "english":"На цель Sticky Greevil накладывается оцепенение."
                 },
                 "attack": 1,
                 "armour": 0,
